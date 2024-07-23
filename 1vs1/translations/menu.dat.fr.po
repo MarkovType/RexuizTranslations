@@ -997,6 +997,8 @@ msgstr "Thread pour serveur"
 msgid "* Good for local game performance, but may be unstable"
 msgstr "* Améliore les performances locales, mais peut être instable"
 
+# This was intended for the weapon settings menu, but it's not yet implemented in base game
+
 msgid "MinstaNex"
 msgstr "MinstaNex"
 
@@ -1035,3 +1037,5 @@ msgstr "Grappin"
 
 msgid "Chainsaw"
 msgstr "Tronçonneuse"
+
+# This is intended for the keybinds menu, although the translations for keybinds are in keybinds_fr.txt

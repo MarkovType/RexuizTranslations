@@ -1037,5 +1037,3 @@ msgstr "Grappin"
 
 msgid "Chainsaw"
 msgstr "Tronçonneuse"
-
-# This is intended for the keybinds menu, although the translations for keybinds are in keybinds_fr.txt

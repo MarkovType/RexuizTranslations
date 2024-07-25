@@ -343,10 +343,10 @@ msgid "{1} could not remember where he put plasma"
 msgstr "{1} could not remember where he put plasma"
 
 msgid "{1}^7 picked up the {2}"
-msgstr "{1}^7 vient d'obtenir un {$2}"
+msgstr "{1}^7 vient d'obtenir {$2}"
 
 msgid "You got the ^2{1}"
-msgstr "Tu viens d'obtenir un ^2{$1}"
+msgstr "Tu as ramassé ^2{$1}"
 
 msgid "{1} died with a {2} kill spree"
 msgstr "{1} est mort avec {2} frags à la suite"
@@ -409,7 +409,7 @@ msgid "{1}^7 jailed!"
 msgstr "{1}^7 est en prison !"
 
 msgid "You got ^4Akimbo ^2{1}"
-msgstr "Tu as obtenu l'^4Akimbo ^2{1}"
+msgstr "Tu as obtenu l'^4Akimbo avec ^2{1}"
 
 msgid "{1}^7 captured the {2} in {3}, failing to break their record of {5} seconds"
 msgstr "{1}^7 a capturé le {$2} en {3} secondes, sans réussir à battre leur record de {5} secondes"
@@ -598,7 +598,7 @@ msgid "Vote for a map (^2{1}^7)"
 msgstr "Voter pour une carte (^2{1}^7)"
 
 msgid "^7for ^1{1} minutes^7 or until ^3{2} caps"
-msgstr "^7pendant ^1{1} minutes^7 ou jusqu'à atteindre ^3{2} frags"
+msgstr "^7Pendant ^1{1} minutes^7 ou jusqu'à atteindre ^3{2} frags"
 
 msgid "^3{1}^3{2}"
 msgstr "^3{1}^3{2}"
@@ -1025,3 +1025,47 @@ msgstr "^1Le serveur redémarre..."
 
 msgid "Score count: {1}/{2}"
 msgstr "Tableau des scores : {1}/{2}"
+
+# This translates the in-game weapons names
+
+msgid "MinstaNex"
+msgstr "le MinstaNex"
+
+msgid "Rocket Launcher"
+msgstr "le RPG"
+
+msgid "Fireball"
+msgstr "le lance-flammes"
+
+msgid "Mortar"
+msgstr "le lance-grenades"
+
+msgid "Zapper"
+msgstr "le Taser"
+
+msgid "Heavy Laser Assault Cannon"
+msgstr "le cannon d'assaut laser"
+
+msgid "SuperShotgun"
+msgstr "le Méga fusil à pompe"
+
+msgid "Rifle"
+msgstr "le fusil"
+
+msgid "Machine Gun"
+msgstr "la Sulfateuse"
+
+msgid "@!{2}%'n Tuba"
+msgstr "le tuba de ses morts"
+
+msgid "Shotgun"
+msgstr "le fusil à pompe"
+
+msgid "Grappling Hook"
+msgstr "le grappin"
+
+msgid "Chainsaw"
+msgstr "la tronçonneuse"
+
+msgid "Nex"
+msgstr "le Nex"

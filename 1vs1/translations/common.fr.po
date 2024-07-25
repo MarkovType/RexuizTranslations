@@ -169,7 +169,7 @@ msgstr "^1Caméra libre\n^1Appuis sur ^3{+attack}^1 pour suivre un joueur"
 "\n^1Mode de jeu : ^3{$2}"
 
 msgid "{1} was gunned by {2}"
-msgstr "{1} s'est fait abattre par {2}"
+msgstr "{1} s'est fait buter par {2}"
 
 msgid "{1} detonated"
 msgstr "{1} s'est kamikazé"
@@ -433,10 +433,10 @@ msgid "Blue Team"
 msgstr "Équipe bleue"
 
 msgid "{1}^7 has changed from {2} to {3}"
-msgstr "{1}^7 has changed from {2} to {3}"
+msgstr "{1}^7 a changé son nom de {2} à {3}"
 
 msgid "^2Game finished!\nThe winner is {1}"
-msgstr "^2Partie terminée !\nLe meilleur est {1}"
+msgstr "^2Partie terminée !\n{1} remporte la partie !"
 
 msgid "Waiting for players to join...\n\nNeed active players for: {2}"
 msgstr "En attente d'autres joueurs...\n\nIl faut des joueurs pour : {$2}"

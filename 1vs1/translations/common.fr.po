@@ -919,7 +919,7 @@ msgid "Play next track"
 msgstr "Jouer la piste suivante"
 
 msgid "Call the vote"
-msgstr "Demander le vote"
+msgstr "Lancer le vote"
 
 msgid "HUD Selection..."
 msgstr "Choix de l'interface de jeu..."

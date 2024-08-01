@@ -241,7 +241,7 @@ msgid "{1} died of {2}'s great playing on the @!{2}%'n Tuba"
 msgstr "{1} s'est fait envoûter par la mélodie du Tuba de {2}"
 
 msgid "{1} was pummeled by {2}"
-msgstr "{2} vient de terminer {2} avec ses mains"
+msgstr "{2} vient de terminer {1} avec ses mains"
 
 msgid "{1} got hit in the head by {2}"
 msgstr "{1} s'est fait MLG par {2}"
